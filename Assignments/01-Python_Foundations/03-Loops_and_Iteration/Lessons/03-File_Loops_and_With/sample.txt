@@ -1,0 +1,7 @@
+hello
+my name is aakash
+i am a student
+i like coding
+hi there
+this is a test file
+ok
