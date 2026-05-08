@@ -38,25 +38,25 @@ completed_assignments/
 │   │           └── ✅ 03-File_Loops_and_With.ipynb
 │   ├── 04-Foundations/
 │   │   ├── Assessments/
-│   │   │   ├── ❌ 01-Foundations_Quiz.ipynb
-│   │   │   └── ❌ 02-mini_quiz.ipynb
+│   │   │   ├── ✅ 01-Foundations_Quiz.ipynb
+│   │   │   └── ✅ 02-mini_quiz.ipynb
 │   │   └── Lessons/
 │   │       ├── 01-Magic_Commands/
-│   │       │   └── ❌ 01-magic_commands.ipynb
+│   │       │   └── ✅ 01-magic_commands.ipynb
 │   │       ├── 02-Markdown_and_Formatting/
-│   │       │   └── ❌ 02-Markdown_and_Formatting.ipynb
+│   │       │   └── ✅ 02-Markdown_and_Formatting.ipynb
 │   │       ├── 03-Work_With_Files/
-│   │       │   └── ❌ 03-Work_With_Files.ipynb
+│   │       │   └── ✅ 03-Work_With_Files.ipynb
 │   │       ├── 04-Data_Input_Output/
-│   │       │   └── ❌ 04-Data_Input_Output.ipynb
+│   │       │   └── ✅ 04-Data_Input_Output.ipynb
 │   │       ├── 05-Plotting_Basics/
-│   │       │   └── ❌ 05-Plotting_Basics.ipynb
+│   │       │   └── ✅ 05-Plotting_Basics.ipynb
 │   │       ├── 06-Jupyter_Shortcuts_and_Productivity/
-│   │       │   └── ❌ 06-Jupyter_Shortcuts_and_Productivity.ipynb
+│   │       │   └── ✅ 06-Jupyter_Shortcuts_and_Productivity.ipynb
 │   │       ├── 07-Using_Help_and_Docs/
 │   │       │   └── ❌ 07-Using_Help_and_Docs.ipynb
 │   │       └── 08-Timing_and_Performance/
-│   │           └── ❌ 08-Timing_and_Performance.ipynb
+│   │           └── ✅ 08-Timing_and_Performance.ipynb
 │   ├── 05-Working_with_Data_Adv/
 │   │   ├── Assessments/
 │   │   │   └── ✅ mini_quiz.ipynb
@@ -251,7 +251,7 @@ completed_assignments/
 │   │       │   └── 02-While_Loops.ipynb
 │   │       └── 03-File_Loops_and_With
 │   │           └── 03-File_Loops_and_With.ipynb
-│   ├── 04-Foundation
+│   ├── 04-Foundations
 │   │   ├── Assessments
 │   │   │   ├── 01-Foundations_Quiz.ipynb
 │   │   │   └── 02-mini_quiz.ipynb
@@ -404,7 +404,7 @@ completed_assignments/
 ============================================================
 
   01-Python_Foundations
-    18/38  [██████████████████░░░░░░░░░░░░░░░░░░░░]
+    27/38  [███████████████████████████░░░░░░░░░░░]
     Goal: complete 40–50% of notebooks
 
   02-Missile_Geometry_101
@@ -419,7 +419,7 @@ completed_assignments/
     21/21  [█████████████████████]
     Goal: complete all 21 notebooks
 
-  Total: 46/130 notebooks found
+  Total: 55/130 notebooks found
 
 
 ============================================================
