@@ -22,7 +22,7 @@ completed_assignments/
 │   │   ├── 01-Scalar_Types/
 │   │   │   └── ❌ 01-Scalar_Types.ipynb
 │   │   ├── Assessments/
-│   │   │   └── ❌ mini_quiz.ipynb
+│   │   │   └── ✅ mini_quiz.ipynb
 │   │   └── Lessons/
 │   │       └── 02-Control_Flow/
 │   │           └── ❌ 02-Control_Flow.ipynb
@@ -233,7 +233,7 @@ completed_assignments/
 │   │       │   └── 03-Data_Types_and_Arithmetic.ipynb
 │   │       └── 03-Dictionaries
 │   │           └── 03-Dictionaries.ipynb
-│   ├── 02-Scalar_Types_and_Data_Basic
+│   ├── 02-Scalar_Types_and_Control_Flow
 │   │   ├── Assessments
 │   │   │   ├── mini_quiz.ipynb
 │   │   │   └── mini_quiz.md
@@ -404,7 +404,7 @@ completed_assignments/
 ============================================================
 
   01-Python_Foundations
-    27/38  [███████████████████████████░░░░░░░░░░░]
+    28/38  [████████████████████████████░░░░░░░░░░]
     Goal: complete 40–50% of notebooks
 
   02-Missile_Geometry_101
@@ -419,7 +419,7 @@ completed_assignments/
     21/21  [█████████████████████]
     Goal: complete all 21 notebooks
 
-  Total: 55/130 notebooks found
+  Total: 56/130 notebooks found
 
 
 ============================================================
