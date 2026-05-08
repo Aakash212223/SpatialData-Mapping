@@ -81,18 +81,18 @@ completed_assignments/
 │   │           └── ✅ 09-Survey_Cleaning_Assignment.ipynb
 │   └── 06-Describing_and_Visualizing_Data/
 │       ├── Assessments/
-│       │   └── ❌ mini_quiz.ipynb
+│       │   └── ✅ mini_quiz.ipynb
 │       └── Lessons/
 │           ├── 01-Types_of_Data/
-│           │   └── ❌ 01-Types_of_Data.ipynb
+│           │   └── ✅ 01-Types_of_Data.ipynb
 │           ├── 02-Summary_Statistics/
-│           │   └── ❌ 02-Summary_Statistics.ipynb
+│           │   └── ✅ 02-Summary_Statistics.ipynb
 │           ├── 03-Matplotlib_Basics/
-│           │   └── ❌ 03-Matplotlib_Basics.ipynb
+│           │   └── ✅ 03-Matplotlib_Basics.ipynb
 │           ├── 04-Seaborn_Basics/
-│           │   └── ❌ 04-Seaborn_Basics.ipynb
+│           │   └── ✅ 04-Seaborn_Basics.ipynb
 │           └── 05-Visualization_MiniLab/
-│               └── ❌ 05-Visualization_MiniLab.ipynb
+│               └── ✅ 05-Visualization_MiniLab.ipynb
 ├── 02-Missile_Geometry_101/
 │   ├── ❌ setup.ipynb
 │   └── _micro_lessons/
@@ -234,12 +234,14 @@ completed_assignments/
 │   │       └── 03-Dictionaries
 │   │           └── 03-Dictionaries.ipynb
 │   ├── 02-Scalar_Types_and_Control_Flow
+│   │   ├── 01-Scalor_Types
+│   │   │   └── 01-Scalar_Types.ipynb
 │   │   ├── Assessments
 │   │   │   ├── mini_quiz.ipynb
 │   │   │   └── mini_quiz.md
 │   │   └── Lessons
-│   │       ├── 01-Scalar_Types.ipynb
-│   │       └── 02-Control_Flow.ipynb
+│   │       └── 02-Controll_Flow
+│   │           └── 02-Control_Flow.ipynb
 │   ├── 03-Loops_and_Iteration
 │   │   ├── Assessments
 │   │   │   ├── mini_quiz.ipynb
@@ -293,7 +295,7 @@ completed_assignments/
 │   │       │   └── 08-Pandas_Wrangle_Lab.ipynb
 │   │       └── 09-Survey_Cleaning_Assignment
 │   │           └── 09-Survey_Cleaning_Assignment.ipynb
-│   └── 06-Describing_and_Visualising_Data
+│   └── 06-Describing_and_Visualizing_Data
 │       ├── Assessments
 │       │   └── mini_quiz.ipynb
 │       └── Lessons
@@ -303,7 +305,7 @@ completed_assignments/
 │           │   └── 02-Summary_Statistics.ipynb
 │           ├── 03-Matplotlib_Basics
 │           │   └── 03-Matplotlib_Basics.ipynb
-│           ├── 04-Seaborn_basics
+│           ├── 04-Seaborn_Basics
 │           │   └── 04-Seaborn_Basics.ipynb
 │           └── 05-Visualization_MiniLab
 │               └── 05-Visualization_MiniLab.ipynb
@@ -404,7 +406,7 @@ completed_assignments/
 ============================================================
 
   01-Python_Foundations
-    28/38  [████████████████████████████░░░░░░░░░░]
+    34/38  [██████████████████████████████████░░░░]
     Goal: complete 40–50% of notebooks
 
   02-Missile_Geometry_101
@@ -419,7 +421,7 @@ completed_assignments/
     21/21  [█████████████████████]
     Goal: complete all 21 notebooks
 
-  Total: 56/130 notebooks found
+  Total: 62/130 notebooks found
 
 
 ============================================================
