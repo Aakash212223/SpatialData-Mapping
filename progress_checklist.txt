@@ -8,16 +8,16 @@ completed_assignments/
 ├── 01-Python_Foundations/
 │   ├── 01-Working_with_Data_Basic/
 │   │   ├── Assessments/
-│   │   │   └── ❌ 02a-mini_quiz.ipynb
+│   │   │   └── ✅ 02a-mini_quiz.ipynb
 │   │   └── Lessons/
 │   │       ├── 01-Lists/
-│   │       │   └── ❌ 01-Lists.ipynb
+│   │       │   └── ✅ 01-Lists.ipynb
 │   │       ├── 02-Tuples/
-│   │       │   └── ❌ 02-Tuples.ipynb
+│   │       │   └── ✅ 02-Tuples.ipynb
 │   │       ├── 03-Data_Types_and_Arithmetic/
-│   │       │   └── ❌ 03-Data_Types_and_Arithmetic.ipynb
+│   │       │   └── ✅ 03-Data_Types_and_Arithmetic.ipynb
 │   │       └── 03-Dictionaries/
-│   │           └── ❌ 03-Dictionaries.ipynb
+│   │           └── ✅ 03-Dictionaries.ipynb
 │   ├── 02-Scalar_Types_and_Control_Flow/
 │   │   ├── 01-Scalar_Types/
 │   │   │   └── ❌ 01-Scalar_Types.ipynb
@@ -28,14 +28,14 @@ completed_assignments/
 │   │           └── ❌ 02-Control_Flow.ipynb
 │   ├── 03-Loops_and_Iteration/
 │   │   ├── Assessments/
-│   │   │   └── ❌ mini_quiz.ipynb
+│   │   │   └── ✅ mini_quiz.ipynb
 │   │   └── Lessons/
 │   │       ├── 01-For_Loops/
 │   │       │   └── ❌ 01-For_Loops.ipynb
 │   │       ├── 02-While_loops/
-│   │       │   └── ❌ 02-While_Loops.ipynb
+│   │       │   └── ✅ 02-While_Loops.ipynb
 │   │       └── 03-File_Loops_and_With/
-│   │           └── ❌ 03-File_Loops_and_With.ipynb
+│   │           └── ✅ 03-File_Loops_and_With.ipynb
 │   ├── 04-Foundations/
 │   │   ├── Assessments/
 │   │   │   ├── ❌ 01-Foundations_Quiz.ipynb
@@ -59,26 +59,26 @@ completed_assignments/
 │   │           └── ❌ 08-Timing_and_Performance.ipynb
 │   ├── 05-Working_with_Data_Adv/
 │   │   ├── Assessments/
-│   │   │   └── ❌ mini_quiz.ipynb
+│   │   │   └── ✅ mini_quiz.ipynb
 │   │   └── Lessons/
 │   │       ├── 01-Lists_Dicts_and_Tuples/
-│   │       │   └── ❌ 01-Lists_Dicts_and_Tuples.ipynb
+│   │       │   └── ✅ 01-Lists_Dicts_and_Tuples.ipynb
 │   │       ├── 02-Pandas_Series_and_Dataframes/
-│   │       │   └── ❌ 02-Pandas_Series_and_Dataframes.ipynb
+│   │       │   └── ✅ 02-Pandas_Series_and_Dataframes.ipynb
 │   │       ├── 03-Loading_and_Exploring_Eata/
-│   │       │   └── ❌ 03-Loading_and_Exploring_Eata.ipynb
+│   │       │   └── ✅ 03-Loading_and_Exploring_Eata.ipynb
 │   │       ├── 04-Indexing_and_Selection/
-│   │       │   └── ❌ 04-Indexing_and_Selection.ipynb
+│   │       │   └── ✅ 04-Indexing_and_Selection.ipynb
 │   │       ├── 05-Basic_Cleaning/
-│   │       │   └── ❌ 05-Basic_Cleaning.ipynb
+│   │       │   └── ✅ 05-Basic_Cleaning.ipynb
 │   │       ├── 06-Column_Operations/
-│   │       │   └── ❌ 06-Column_Operations.ipynb
+│   │       │   └── ✅ 06-Column_Operations.ipynb
 │   │       ├── 07-Sorting_and_Filtering/
-│   │       │   └── ❌ 07-Sorting_and_Filtering.ipynb
+│   │       │   └── ✅ 07-Sorting_and_Filtering.ipynb
 │   │       ├── 08-Pandas_Wrangle_Lab/
-│   │       │   └── ❌ 08-Pandas_Wrangle_Lab.ipynb
+│   │       │   └── ✅ 08-Pandas_Wrangle_Lab.ipynb
 │   │       └── 09-Survey_Cleaning_Assignment/
-│   │           └── ❌ 09-Survey_Cleaning_Assignment.ipynb
+│   │           └── ✅ 09-Survey_Cleaning_Assignment.ipynb
 │   └── 06-Describing_and_Visualizing_Data/
 │       ├── Assessments/
 │       │   └── ❌ mini_quiz.ipynb
@@ -219,7 +219,7 @@ completed_assignments/
 ============================================================
 
 completed_assignments/
-├── 01-Python_Foundation
+├── 01-Python_Foundations
 │   ├── 01-Working_with_Data_Basic
 │   │   ├── Assessments
 │   │   │   ├── 02a-mini_quiz.ipynb
@@ -231,7 +231,7 @@ completed_assignments/
 │   │       │   └── 02-Tuples.ipynb
 │   │       ├── 03-Data_Types_and_Arithmetic
 │   │       │   └── 03-Data_Types_and_Arithmetic.ipynb
-│   │       └── 04-Dictionaries
+│   │       └── 03-Dictionaries
 │   │           └── 03-Dictionaries.ipynb
 │   ├── 02-Scalar_Types_and_Data_Basic
 │   │   ├── Assessments
@@ -356,14 +356,55 @@ completed_assignments/
 │       │   ├── 02-The_Comparison.ipynb
 │       │   └── README.md
 │       └── README.md
-└── 04-Worldle
+├── 04-Worldle
+└── Project_01
+    ├── data
+    │   ├── threats
+    │   │   └── threats.json
+    │   └── world_borders
+    │       ├── world_borders.cpg
+    │       ├── world_borders.dbf
+    │       ├── world_borders.geojson
+    │       ├── world_borders.kmz
+    │       ├── world_borders.prj
+    │       ├── world_borders.shp
+    │       ├── world_borders.shx
+    │       └── world_borders.xml
+    ├── maps
+    │   ├── milestone_01_base_map.html
+    │   ├── milestone_02_distance_bearing.html
+    │   ├── milestone_03_trajectories.html
+    │   ├── milestone_04_intersections.html
+    │   └── milestone_05_damage_zones.html
+    ├── screenshots
+    │   ├── milestone_01.png
+    │   ├── milestone_02.png
+    │   ├── milestone_03.png
+    │   ├── milestone_04.png
+    │   └── milestone_05.png
+    ├── src
+    │   ├── wdo
+    │   │   ├── __init__.py
+    │   │   ├── geo_math.py
+    │   │   ├── io_shapefile.py
+    │   │   ├── simulate_threats.py
+    │   │   └── viz_map.py
+    │   ├── wdo.egg-info
+    │   │   ├── dependency_links.txt
+    │   │   ├── PKG-INFO
+    │   │   ├── SOURCES.txt
+    │   │   └── top_level.txt
+    │   └── __init__.py
+    ├── damage_zones.csv
+    ├── notebook.ipynb
+    └── README.md
 
 ============================================================
   SUMMARY
 ============================================================
 
   01-Python_Foundations
-    0/38  [░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]
+    18/38  [██████████████████░░░░░░░░░░░░░░░░░░░░]
     Goal: complete 40–50% of notebooks
 
   02-Missile_Geometry_101
@@ -378,7 +419,7 @@ completed_assignments/
     21/21  [█████████████████████]
     Goal: complete all 21 notebooks
 
-  Total: 28/130 notebooks found
+  Total: 46/130 notebooks found
 
 
 ============================================================
