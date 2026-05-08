@@ -20,18 +20,18 @@ completed_assignments/
 │   │           └── ✅ 03-Dictionaries.ipynb
 │   ├── 02-Scalar_Types_and_Control_Flow/
 │   │   ├── 01-Scalar_Types/
-│   │   │   └── ❌ 01-Scalar_Types.ipynb
+│   │   │   └── ✅ 01-Scalar_Types.ipynb
 │   │   ├── Assessments/
 │   │   │   └── ✅ mini_quiz.ipynb
 │   │   └── Lessons/
 │   │       └── 02-Control_Flow/
-│   │           └── ❌ 02-Control_Flow.ipynb
+│   │           └── ✅ 02-Control_Flow.ipynb
 │   ├── 03-Loops_and_Iteration/
 │   │   ├── Assessments/
 │   │   │   └── ✅ mini_quiz.ipynb
 │   │   └── Lessons/
 │   │       ├── 01-For_Loops/
-│   │       │   └── ❌ 01-For_Loops.ipynb
+│   │       │   └── ✅ 01-For_Loops.ipynb
 │   │       ├── 02-While_loops/
 │   │       │   └── ✅ 02-While_Loops.ipynb
 │   │       └── 03-File_Loops_and_With/
@@ -54,7 +54,7 @@ completed_assignments/
 │   │       ├── 06-Jupyter_Shortcuts_and_Productivity/
 │   │       │   └── ✅ 06-Jupyter_Shortcuts_and_Productivity.ipynb
 │   │       ├── 07-Using_Help_and_Docs/
-│   │       │   └── ❌ 07-Using_Help_and_Docs.ipynb
+│   │       │   └── ✅ 07-Using_Help_and_Docs.ipynb
 │   │       └── 08-Timing_and_Performance/
 │   │           └── ✅ 08-Timing_and_Performance.ipynb
 │   ├── 05-Working_with_Data_Adv/
@@ -234,20 +234,20 @@ completed_assignments/
 │   │       └── 03-Dictionaries
 │   │           └── 03-Dictionaries.ipynb
 │   ├── 02-Scalar_Types_and_Control_Flow
-│   │   ├── 01-Scalor_Types
+│   │   ├── 01-Scalar_Types
 │   │   │   └── 01-Scalar_Types.ipynb
 │   │   ├── Assessments
 │   │   │   ├── mini_quiz.ipynb
 │   │   │   └── mini_quiz.md
 │   │   └── Lessons
-│   │       └── 02-Controll_Flow
+│   │       └── 02-Control_Flow
 │   │           └── 02-Control_Flow.ipynb
 │   ├── 03-Loops_and_Iteration
 │   │   ├── Assessments
 │   │   │   ├── mini_quiz.ipynb
 │   │   │   └── mini_quiz.md
 │   │   └── Lessons
-│   │       ├── 01-For-Loops
+│   │       ├── 01-For_Loops
 │   │       │   └── 01-For_Loops.ipynb
 │   │       ├── 02-While_Loops
 │   │       │   └── 02-While_Loops.ipynb
@@ -271,6 +271,7 @@ completed_assignments/
 │   │       ├── 06-Jupyter_Shortcuts_and_Productivity
 │   │       │   └── 06-Jupyter_Shortcuts_and_Productivity.ipynb
 │   │       ├── 07-Using_Help_and_Docs
+│   │       │   └── 07-Using_Help_and_Docs.ipynb
 │   │       └── 08-Timing_and_Performance
 │   │           └── 08-Timing_and_Performance.ipynb
 │   ├── 05-Working_with_Data_Adv
@@ -406,7 +407,7 @@ completed_assignments/
 ============================================================
 
   01-Python_Foundations
-    34/38  [██████████████████████████████████░░░░]
+    38/38  [██████████████████████████████████████]
     Goal: complete 40–50% of notebooks
 
   02-Missile_Geometry_101
@@ -421,7 +422,7 @@ completed_assignments/
     21/21  [█████████████████████]
     Goal: complete all 21 notebooks
 
-  Total: 62/130 notebooks found
+  Total: 66/130 notebooks found
 
 
 ============================================================
