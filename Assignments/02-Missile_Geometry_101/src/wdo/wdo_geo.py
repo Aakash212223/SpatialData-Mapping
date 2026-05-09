@@ -191,3 +191,23 @@ def bbox_latlon(points: Sequence[LatLon]) -> Tuple[float, float, float, float]:
     lats = [p.lat for p in points]
     lons = [p.lon for p in points]
     return (min(lats), min(lons), max(lats), max(lons))
+
+def point_in_polygon(point: LatLon, polygon: List[LatLon]) -> bool:
+    """
+    Ray-casting algorithm to test if a point is inside a polygon.
+    """
+    x, y = point.lon, point.lat
+    n = len(polygon)
+    inside = False
+    p1x, p1y = polygon[0].lon, polygon[0].lat
+    for i in range(1, n + 1):
+        p2x, p2y = polygon[i % n].lon, polygon[i % n].lat
+        if y > min(p1y, p2y):
+            if y <= max(p1y, p2y):
+                if x <= max(p1x, p2x):
+                    if p1y != p2y:
+                        xinters = (y - p1y) * (p2x - p1x) / (p2y - p1y) + p1x
+                    if p1x == p2x or x <= xinters:
+                        inside = not inside
+        p1x, p1y = p2x, p2y
+    return inside
