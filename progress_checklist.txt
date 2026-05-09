@@ -94,7 +94,7 @@ completed_assignments/
 │           └── 05-Visualization_MiniLab/
 │               └── ✅ 05-Visualization_MiniLab.ipynb
 ├── 02-Missile_Geometry_101/
-│   ├── ❌ setup.ipynb
+│   ├── ✅ setup.ipynb
 │   └── _micro_lessons/
 │       ├── ✅ 00-Working_Directory.ipynb
 │       ├── ✅ 01-Data_Elsewhere.ipynb
@@ -322,8 +322,9 @@ completed_assignments/
 │   │   ├── 07-InteractiveMaps.ipynb
 │   │   ├── 08-InstallingLocalLib.ipynb
 │   │   └── 09-YourOwnLibrary.ipynb
-│   └── data
-│       └── clicked_points.json
+│   ├── data
+│   │   └── clicked_points.json
+│   └── setup.ipynb
 ├── 03-Data_Manager
 │   └── _micro_lessons
 │       ├── 00-Data_Exploration
@@ -416,7 +417,7 @@ completed_assignments/
     Goal: complete 40–50% of notebooks
 
   02-Missile_Geometry_101
-    10/11  [██████████░]
+    11/11  [███████████]
     Goal: complete all 11 + include your working project
 
   02-Missile_Geometry_202
@@ -427,7 +428,7 @@ completed_assignments/
     21/21  [█████████████████████]
     Goal: complete all 21 notebooks
 
-  Total: 69/130 notebooks found
+  Total: 70/130 notebooks found
 
 
 ============================================================
