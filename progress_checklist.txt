@@ -103,9 +103,9 @@ completed_assignments/
 │       ├── ✅ 04-Distance.ipynb
 │       ├── ✅ 05-Geo_and_Json_overview.ipynb
 │       ├── ✅ 06-Distances.ipynb
-│       ├── ❌ 07-InteractiveMaps.ipynb
-│       ├── ❌ 08-InstallingLocalLib.ipynb
-│       └── ❌ 09-YourOwnLibrary.ipynb
+│       ├── ✅ 07-InteractiveMaps.ipynb
+│       ├── ✅ 08-InstallingLocalLib.ipynb
+│       └── ✅ 09-YourOwnLibrary.ipynb
 ├── 02-Missile_Geometry_202/
 │   └── _micro_lessons/
 │       ├── 00-Paths/
@@ -311,14 +311,19 @@ completed_assignments/
 │           └── 05-Visualization_MiniLab
 │               └── 05-Visualization_MiniLab.ipynb
 ├── 02-Missile_Geometry_101
-│   └── _micro_lessons
-│       ├── 00-Working_Directory.ipynb
-│       ├── 01-Data_Elsewhere.ipynb
-│       ├── 02-Viewing_Geojson.ipynb
-│       ├── 03-Style_W_Logic.ipynb
-│       ├── 04-Distance.ipynb
-│       ├── 05-Geo_and_Json_overview.ipynb
-│       └── 06-Distances.ipynb
+│   ├── _micro_lessons
+│   │   ├── 00-Working_Directory.ipynb
+│   │   ├── 01-Data_Elsewhere.ipynb
+│   │   ├── 02-Viewing_Geojson.ipynb
+│   │   ├── 03-Style_W_Logic.ipynb
+│   │   ├── 04-Distance.ipynb
+│   │   ├── 05-Geo_and_Json_overview.ipynb
+│   │   ├── 06-Distances.ipynb
+│   │   ├── 07-InteractiveMaps.ipynb
+│   │   ├── 08-InstallingLocalLib.ipynb
+│   │   └── 09-YourOwnLibrary.ipynb
+│   └── data
+│       └── clicked_points.json
 ├── 03-Data_Manager
 │   └── _micro_lessons
 │       ├── 00-Data_Exploration
@@ -411,7 +416,7 @@ completed_assignments/
     Goal: complete 40–50% of notebooks
 
   02-Missile_Geometry_101
-    7/11  [███████░░░░]
+    10/11  [██████████░]
     Goal: complete all 11 + include your working project
 
   02-Missile_Geometry_202
@@ -422,7 +427,7 @@ completed_assignments/
     21/21  [█████████████████████]
     Goal: complete all 21 notebooks
 
-  Total: 66/130 notebooks found
+  Total: 69/130 notebooks found
 
 
 ============================================================
