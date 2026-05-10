@@ -1,0 +1,5 @@
+pyproject.toml
+wdo.egg-info/PKG-INFO
+wdo.egg-info/SOURCES.txt
+wdo.egg-info/dependency_links.txt
+wdo.egg-info/top_level.txt
